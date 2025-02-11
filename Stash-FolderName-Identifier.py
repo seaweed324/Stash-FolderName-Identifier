@@ -7,7 +7,7 @@ import json
 # -------------------------------
 # CONFIGURATION
 # -------------------------------
-BASE_FOLDER = r"J:\VM"  # Folder containing actor folders
+BASE_FOLDER = r"ENTER FOLDER PATH CONTAINING ACTORS FOLDERS EX... (X:\ACTORS)"  # Folder containing actor folders
 STASH_API = "http://localhost:9999/graphql"
 PER_PAGE = 2222  # High enough to return all results
 STASH_HEADERS = {"Content-Type": "application/json"}
